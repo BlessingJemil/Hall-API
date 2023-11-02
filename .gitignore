@@ -1,0 +1,29 @@
+# Node.js
+/node_modules
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+/bower_components
+/jspm_packages/
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Compiled binary addons (like binding.gyp)
+/build/
+/config.gypi
+/node_modules/
+/npm-debug.log
+
+# Local development env files
+.env
+
+# MongoDB data directory
+/data/db
